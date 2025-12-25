@@ -1,2 +1,6 @@
 # Hotel-Management
-This Hotel Management System is a full-stack application developed using Java for backend logic, CSS for frontend styling, and SQL for database management.
+This Hotel Management System is a full-stack application developed using Java for backend logic, CSS for frontend styling, and SQL for database management. The project is designed to automate and simplify core hotel operations such as room booking, customer management, and record handling, reducing manual work and improving efficiency.
+
+The system provides a user-friendly interface where hotel staff can manage customer details, room availability, check-in and check-out processes, and billing information. The frontend is styled using CSS to ensure a clean and responsive layout, while Java handles business logic, validations, and communication between the user interface and the database. An SQL database is used to securely store and retrieve data related to customers, rooms, reservations, and transactions.
+
+This project follows a modular approach, making the code easy to understand, maintain, and extend. It demonstrates practical implementation of object-oriented programming concepts, database connectivity using JDBC, and basic frontend-backend integration. The Hotel Management System is ideal for learning real-world application development and serves as a strong foundation for building more advanced enterprise-level systems in the future.
